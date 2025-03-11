@@ -1,4 +1,5 @@
 %SPDF-1.0
+
 1 0 obj
 << /Type /Catalog
  /Pages 2 0 R
@@ -6,12 +7,14 @@
  /Outlines 8 0 R
 >>
 endobj
+
 2 0 obj
 << /Type /Pages
  /Kids [3 0 R 4 0 R]
  /Count 2
 >>
 endobj
+
 3 0 obj
 << /Type /Page
  /Parent 2 0 R
@@ -22,6 +25,7 @@ endobj
  /Contents 6 0 R
 >>
 endobj
+
 4 0 obj
 << /Type /Page
  /Parent 2 0 R
@@ -32,6 +36,7 @@ endobj
  /Contents 9 0 R
 >>
 endobj
+
 5 0 obj
 << /Type /Font
  /Subtype /Type1
@@ -39,6 +44,7 @@ endobj
  /FontDescriptor 10 0 R
 >>
 endobj
+
 6 0 obj
 << /Length 175 >>
 stream
@@ -54,6 +60,7 @@ BT
 ET
 endstream
 endobj
+
 7 0 obj
 << /Title (Relatório Financeiro Trimestral)
  /Author (Departamento Financeiro)
@@ -63,6 +70,7 @@ endobj
  /PageCount 2
 >>
 endobj
+
 8 0 obj
 << /Type /Outlines
  /Count 3
@@ -70,6 +78,7 @@ endobj
  /Last 13 0 R
 >>
 endobj
+
 9 0 obj
 << /Length 322 >>
 stream
@@ -89,6 +98,7 @@ BT
 ET
 endstream
 endobj
+
 10 0 obj
 << /Type /FontDescriptor
  /FontName /Helvetica
@@ -102,6 +112,7 @@ endobj
  /MissingWidth 278
 >>
 endobj
+
 11 0 obj
 << /Title (Resumo Executivo)
  /Parent 8 0 R
@@ -109,6 +120,7 @@ endobj
  /Dest [3 0 R /FitH 792.0]
 >>
 endobj
+
 12 0 obj
 << /Title (Detalhamento de Vendas)
  /Parent 8 0 R
@@ -117,6 +129,7 @@ endobj
  /Dest [4 0 R /FitH 792.0]
 >>
 endobj
+
 13 0 obj
 << /Title (Projeções Futuras)
  /Parent 8 0 R
@@ -124,6 +137,7 @@ endobj
  /Dest [4 0 R /XYZ 100 450 1.25]
 >>
 endobj
+
 14 0 obj
 << /Type /Metadata
  /Subtype /XML
@@ -142,6 +156,7 @@ stream
 <?xpacket end='w'?>
 endstream
 endobj
+
 xref
 0 15
 0000000000 65535 f
@@ -159,6 +174,7 @@ xref
 0000001818 00000 n
 0000001940 00000 n
 0000002052 00000 n
+
 trailer
 << /Size 15
  /Root 1 0 R
