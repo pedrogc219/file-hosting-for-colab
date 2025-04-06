@@ -1,0 +1,10 @@
+true
+false
+(\neg true)
+(\neg (\neg false))
+(\neg (\vee 1 0))
+(\rightarrow (\wedge a b) c)
+(\leftrightarrow (\neg (\vee x y)) (\wedge z w))
+(\wedge (\vee (\rightarrow 1 0) (\wedge a b)) (\neg c))
+(\wedge (\neg (\rightarrow (\vee x y) z)) (\leftrightarrow (\wedge 1 0) (\vee a b)))
+(\vee (\rightarrow (\neg 1) (\leftrightarrow (\wedge a b) c)) (\wedge false true))
